@@ -15,7 +15,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        for (int j = i; j < m; j++)
+        for (int j = i; j < m; j++) //for loops are used with swaps
         {
             int temp = a[i][j];
             a[i][j] = a[j][i];
