@@ -7,24 +7,27 @@ This is a glug-pace hacktoberfest activity repo, students contribute here to gai
 
 ### *Step 1: Register for Hacktoberfest*
 
-```bash
-# Create a Hacktoberfest account by connecting with your GitHub profile at 
+ Create a Hacktoberfest account by connecting with your GitHub profile at 
+  ```bash
   https://hacktoberfest.com/
-# This is your gateway to participating in the event.
-```
+  ```
+ This is your gateway to participating in the event.
+
 
 ### *Step 2: Choose a Repository*
-```bash
-# Explore the Hacktoberfest event repository at
+
+Explore the Hacktoberfest event repository at
+  ```bash
   https://github.com/glugpace/Hacktoberfest2023-pace
-# This is where you can make your contributions.
-```
+  ```
+This is where you can make your contributions.
+
 
 ### *Step 3: Fork and Clone the Repository*
-```bash
-# Fork the repository to create a personal copy in your GitHub account.
-# Clone your forked repository to your local machine using the command:
-```
+
+ Fork the repository to create a personal copy in your GitHub account.
+ Clone your forked repository to your local machine using the command:
+
  Line below is the command to create a clone of your forked repo:
 
 ```bash
