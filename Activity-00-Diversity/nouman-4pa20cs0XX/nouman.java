@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 class Nouman{
     public static void main(String[] args){
