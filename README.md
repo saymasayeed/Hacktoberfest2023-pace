@@ -5,6 +5,7 @@ This is a glug-pace hacktoberfest activity repo, students contribute here to gai
 ## Steps to complete the activity
 
 
+
 ### *Step 1: Register for Hacktoberfest*
 
  Create a Hacktoberfest account by connecting with your GitHub profile at 
@@ -14,6 +15,7 @@ This is a glug-pace hacktoberfest activity repo, students contribute here to gai
  This is your gateway to participating in the event.
 
 
+
 ### *Step 2: Choose a Repository*
 
 Explore the Hacktoberfest event repository at
@@ -21,6 +23,7 @@ Explore the Hacktoberfest event repository at
   https://github.com/glugpace/Hacktoberfest2023-pace
   ```
 This is where you can make your contributions.
+
 
 
 ### *Step 3: Fork and Clone the Repository*
@@ -33,6 +36,7 @@ This is where you can make your contributions.
 ```bash
   $ git clone https://github.com/{your-username}/Hacktoberfest2023-pace
 ```
+
 
 ### *Step 4: Add and Commit Changes*
 ```bash
@@ -53,50 +57,53 @@ This is where you can make your contributions.
 
 ```
 
-### *Step 5: Repeat and Aim for Four Contributions*
-```bash
-# To qualify for Hacktoberfest, aim to make at least --
-# four meaningful contributions to different repositories.
 
-# Be open to feedback and guidance from maintainers.
-```
+
+### *Step 5: Repeat and Aim for Four Contributions*
+
+ To qualify for Hacktoberfest, aim to make at least four meaningful contributions to different repositories.
+ Be open to feedback and guidance from maintainers.
+
+
 
 ### *Step 6: Create a Pull Request (PR)*
-```bash
-# Go to your forked repository on GitHub, and you should see an option--
-# to create a Pull Request from your branch.
 
-# Provide a clear title and description of your changes.
-```
+ Go to your forked repository on GitHub, and you should see an option to create a Pull Request from your branch.
+
+ Provide a clear title and description of your changes.
+
+
 
 ### *Step 7: Review and Follow Instructions*
-```bash
-# Your PR will be reviewed by the project maintainers. 
-# Be prepared to address any feedback and make necessary changes.
-# Follow any guidelines and instructions provided by the maintainers.
-```
+
+ Your PR will be reviewed by the project maintainers. 
+ Be prepared to address any feedback and make necessary changes.
+ Follow any guidelines and instructions provided by the maintainers.
+
+
 
 ### *Step 8: Get Your PR Merged*
-```bash
-# Once your PR is accepted and merged into the project.
-# you've successfully contributed to Hacktoberfest.
-```
+
+ Once your PR is accepted and merged into the project, you've successfully contributed to Hacktoberfest.
+
+
 
 ### *Step 9: Track Your Progress*
-```bash
-# Track your contributions and progress on the --
-# Hacktoberfest website by connecting your GitHub account.
-```
+
+ Track your contributions and progress on the Hacktoberfest website by connecting your GitHub account.
+
+
 
 ### *Step 10: Engage in Discussions*
 
 Participate in discussions and share your experiences in the Hacktoberfest community on GitHub and social media.
 
 
+
 ### *Step 11: Celebrate Your Success*
-```bash
-# After completing four contributions, you'll be eligible to  plant a tree.
-```
+
+ After completing four contributions, you'll be eligible to  plant a tree.
+
 
 
 
